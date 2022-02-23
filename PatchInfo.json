@@ -1,17 +1,16 @@
 {
-  "Launch": {
-    "LatestVersion": 87,
-    "NewVersionUrl": "http://update.kthuyenthoai.com/patch/Launcher_v87.7z"
-  },
-  "LoginServerUrl": "https://kthuyenthoai.com",
-  
-  "LatestVersion": "1.0",
-  "Patches": [
+"Launch": {
+	"LatestVersion": 87,
+	"NewVersionUrl": "http://update.kthuyenthoai.com/patch/Launcher_v87.7z"
+},
+"LoginServerUrl": "https://kthuyenthoai.com",
+"LatestVersion": "1.0",
+"Patches": [
 	{
-      "VersionFrom": "0",
-      "VersionTo": "1.0",
-	  "UpTime": "2022-02-18 06:00",
-      "Url": "http://update.kthuyenthoai.com/patch/files/kt_1.0.7z"
-    }
-  ]
+		"VersionFrom": "0",
+		"VersionTo": "1.0",
+		"UpTime": "2022-02-18 06:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.0.7z"
+	}
+]
 }
