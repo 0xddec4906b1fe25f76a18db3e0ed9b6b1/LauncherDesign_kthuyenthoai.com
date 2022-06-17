@@ -1,11 +1,173 @@
 {
 "Launch": {
-	"LatestVersion": 87,
-	"NewVersionUrl": "http://update.kthuyenthoai.com/patch/Launcher_v87.7z"
+	"LatestVersion": 98,
+	"NewVersionUrl": "http://update.kthuyenthoai.com/patch/KTHuyenThoai-v98.7z"
 },
 "LoginServerUrl": "https://kthuyenthoai.com",
-"LatestVersion": "1.0",
+"LatestVersion": "4.0",
 "Patches": [
+	{
+		"VersionFrom": "3.9",
+		"VersionTo": "4.0",
+		"UpTime": "2022-06-15 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_4.0.7z",
+		"Desc": "My cap nhap quan doanh + du long"
+	},
+	{
+		"VersionFrom": "3.8",
+		"VersionTo": "3.9",
+		"UpTime": "2022-06-13 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.9.7z",
+		"Desc": "Fix gamesetting.ini gay dis client khi mua shop"
+	},
+	{
+		"VersionFrom": "3.7",
+		"VersionTo": "3.8",
+		"UpTime": "2022-06-13 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.8.7z",
+		"Desc": "Fix gamesetting.ini gay dis client khi mua shop"
+	},
+	{
+		"VersionFrom": "3.6",
+		"VersionTo": "3.7",
+		"UpTime": "2022-06-13 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.7.7z",
+		"Desc": "Cap nhap pk10 van co the su dung skill"
+	},
+	{
+		"VersionFrom": "3.5",
+		"VersionTo": "3.6",
+		"UpTime": "2022-06-08 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.6.7z",
+		"Desc": "Sua thong bao dang nhap sai mat khau"
+	},
+	{
+		"VersionFrom": "3.4",
+		"VersionTo": "3.5",
+		"UpTime": "2022-06-06 00:00",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.5.7z",
+		"Desc": "Cap nhap them res ngai vang CTC"
+	},
+	{
+		"VersionFrom": "3.3",
+		"VersionTo": "3.4",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.4.7z"
+	},
+	{
+		"VersionFrom": "3.2",
+		"VersionTo": "3.3",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.3.7z"
+	},
+	{
+		"VersionFrom": "3.1",
+		"VersionTo": "3.2",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.2.7z"
+	},
+	{
+		"VersionFrom": "3.0",
+		"VersionTo": "3.1",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.1.7z"
+	},
+	{
+		"VersionFrom": "2.9",
+		"VersionTo": "3.0",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_3.0.7z"
+	},
+	{
+		"VersionFrom": "2.8",
+		"VersionTo": "2.9",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.9.7z"
+	},
+	{
+		"VersionFrom": "2.7",
+		"VersionTo": "2.8",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.8.7z"
+	},
+	{
+		"VersionFrom": "2.6",
+		"VersionTo": "2.7",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.7.7z"
+	},
+	{
+		"VersionFrom": "2.5",
+		"VersionTo": "2.6",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.6.7z"
+	},
+	{
+		"VersionFrom": "2.4",
+		"VersionTo": "2.5",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.5.7z"
+	},
+	{
+		"VersionFrom": "2.3",
+		"VersionTo": "2.4",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.4.7z"
+	},
+	{
+		"VersionFrom": "2.2",
+		"VersionTo": "2.3",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.3.7z"
+	},
+	{
+		"VersionFrom": "2.1",
+		"VersionTo": "2.2",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.2.7z"
+	},
+	{
+		"VersionFrom": "2.0",
+		"VersionTo": "2.1",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.1.7z"
+	},
+	{
+		"VersionFrom": "1.9",
+		"VersionTo": "2.0",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_2.0.7z"
+	},
+	{
+		"VersionFrom": "1.8",
+		"VersionTo": "1.9",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.9.7z"
+	},
+	{
+		"VersionFrom": "1.7",
+		"VersionTo": "1.8",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.8.7z"
+	},
+	{
+		"VersionFrom": "1.6",
+		"VersionTo": "1.7",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.7.7z"
+	},
+	{
+		"VersionFrom": "1.5",
+		"VersionTo": "1.6",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.6.7z"
+	},
+	{
+		"VersionFrom": "1.4",
+		"VersionTo": "1.5",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.5.7z"
+	},
+	{
+		"VersionFrom": "1.3",
+		"VersionTo": "1.4",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.4.7z"
+	},
+	{
+		"VersionFrom": "1.2",
+		"VersionTo": "1.3",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.3.7z"
+	},
+	{
+		"VersionFrom": "1.1",
+		"VersionTo": "1.2",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.2.7z"
+	},
+	{
+		"VersionFrom": "1.0",
+		"VersionTo": "1.1",
+		"Url": "http://update.kthuyenthoai.com/patch/files/kt_1.1.7z"
+	},
 	{
 		"VersionFrom": "0",
 		"VersionTo": "1.0",
